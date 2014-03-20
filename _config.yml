@@ -1,4 +1,5 @@
-name: Your New Jekyll Site
+name: Andy's Love Patrol
 markdown: redcarpet
 pygments: true
 exclude: ['readme.md', 'GEMFILE', 'GEMFILE.lock']
+paginate: 3
